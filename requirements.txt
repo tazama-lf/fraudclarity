@@ -1,0 +1,13 @@
+﻿langchain-community
+langchain-core
+langchain-ollama
+langchain-openai
+langchain-anthropic
+python-dotenv
+langchain-text-splitters
+chromadb
+langchain-chroma
+langgraph
+unstructured
+ipykernel
+gradio>=5,<6
