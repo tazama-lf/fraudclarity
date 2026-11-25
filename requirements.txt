@@ -1,4 +1,4 @@
-﻿langchain-community
+langchain-community
 langchain-core
 langchain-ollama
 langchain-openai
@@ -10,4 +10,4 @@ langchain-chroma
 langgraph
 unstructured
 ipykernel
-gradio>=5,<6
+gradio>=6.32.0,<7
